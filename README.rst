@@ -1,13 +1,16 @@
-# Snake Game
+Quickstart
+----------
+ 
+Installing PyGame is simple with `pip
+<https://pypi.python.org/pypi/pip>`_::
 
+  $ python3 -m pip install pygame
 
-Simple Snake game made with PyGame.
+Run game with::
 
-To run the project:
-<ul>
-<li> Run <code>pip install pygame</code></li>
-<li> Run the game with python <code>snake.py</code></li>
+  $ python3 snake.py
   
+
 Snake
 .....
 
