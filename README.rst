@@ -1,3 +1,5 @@
+Simple Snake game made with PyGame.
+
 Quickstart
 ----------
  
